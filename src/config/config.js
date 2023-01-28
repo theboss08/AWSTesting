@@ -1,0 +1,3 @@
+// export let cognitoLink = 'https://auth.codewitharshad.link/login?client_id=afssmc62q30qkk4d3eji45sh9&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://dev.codewitharshad.link';
+export let cognitoLink = 'https://react-testing.auth.us-east-1.amazoncognito.com/login?client_id=afssmc62q30qkk4d3eji45sh9&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=http://localhost:3000/';
+export let apiUrl = 'https://fub8u8ld10.execute-api.us-east-1.amazonaws.com/test';
